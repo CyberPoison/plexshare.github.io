@@ -79,6 +79,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 
 ### Black Dragon
 - **Library**: 15K Movies in FR / EN, 1.2K TV Shows in FR / EN, 4K (HDR10 & DV), Anime, Multiple Country channels (4 000+ )
+- **Services**: Plex, Emby Shares, Others
 - **Infrastructure**: EU with CDN
 - **Pricing**: Starting at: $10/month
 - **Payment**: Credit Card / Crypto
